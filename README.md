@@ -1,8 +1,10 @@
 # atividade-hello-word-grupo-6
 
+## Nomes Grupo
+- Alexia Assumpção
 
-## nomes grupo
-Alexia Assumpção
-Max Paz
-Gabriel Martins
-Larisse Rodrigues
+- Max Paz
+
+- Gabriel Martins
+
+- Larisse Rodrigues

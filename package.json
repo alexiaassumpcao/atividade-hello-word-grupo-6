@@ -1,0 +1,11 @@
+{
+  "name": "atividade-hello-word-grupo-6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alexiaassumpcao/atividade-hello-word-grupo-6.git",
+  "author": "Gabriel Martins <gsmartins96@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
