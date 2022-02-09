@@ -11,6 +11,7 @@ function App() {
         <div>
           <p>{welcome}</p>
         <img src={logo} />
+          <p>Hello, World! Carolina Ribeiro</p>  
         <p>{academy}</p>
         </div>
       </header>
